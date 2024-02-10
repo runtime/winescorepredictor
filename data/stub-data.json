@@ -1,0 +1,216 @@
+{
+  "whiskies": [
+    {
+      "name": "Yamazaki 12 Year Old",
+      "type": "Single Malt Scotch",
+      "tags": [
+        "Smooth",
+        "Balanced",
+        "Subtle",
+        "Fruitiness",
+        "Oak",
+        "Spice"
+      ],
+      "characteristics": {
+        "proof": 86,
+        "total_acidity": null,
+        "fixed_acidity": null,
+        "lactic_acid": 0.03,
+        "succinic_acid": 0.02,
+        "esters": 0.05,
+        "aldehydes": null,
+        "furfural": null,
+        "fusel_oil": null,
+        "solids": null,
+        "color": "Amber",
+        "tannins": null,
+        "ph": null
+      },
+      "ratings": {
+        "Whisky Advocate": 92,
+        "Whisky Magazine": 90,
+        "Jim Murray's Whisky Bible": 91
+      },
+      "image": "https://example.com/yamazaki_12.jpg",
+      "factors": {
+        "aging_process": "12 years in oak barrels",
+        "water_source": "Natural springs",
+        "grain": "Barley",
+        "distilled_geolocation": "Yamazaki Distillery, Japan",
+        "elevation_of_distillery": "Unknown",
+        "type_of_barrel": "Oak",
+        "charred_barrel": null
+      }
+    },
+    {
+      "name": "Hibiki Japanese Harmony",
+      "type": "Blended Scotch",
+      "tags": [
+        "Delicate",
+        "Harmonious",
+        "Floral",
+        "Honeyed",
+        "Subtle",
+        "Spiciness"
+      ],
+      "characteristics": {
+        "proof": 86,
+        "total_acidity": null,
+        "fixed_acidity": null,
+        "lactic_acid": null,
+        "succinic_acid": null,
+        "esters": null,
+        "aldehydes": null,
+        "furfural": null,
+        "fusel_oil": null,
+        "solids": null,
+        "color": "Golden",
+        "tannins": null,
+        "ph": null
+      },
+      "ratings": {
+        "Whisky Advocate": 88,
+        "Whisky Magazine": 89,
+        "Jim Murray's Whisky Bible": 90
+      },
+      "image": "https://example.com/hibiki_japanese_harmony.jpg",
+      "factors": {
+        "aging_process": null,
+        "water_source": null,
+        "grain": null,
+        "distilled_geolocation": null,
+        "elevation_of_distillery": null,
+        "type_of_barrel": null,
+        "charred_barrel": null
+      }
+    },
+    {
+      "name": "Nikka From the Barrel",
+      "type": "Blended Malt Scotch",
+      "tags": [
+        "Rich",
+        "Full-bodied",
+        "Complex",
+        "Blend",
+        "Flavors",
+        "Caramel",
+        "Vanilla",
+        "Notes"
+      ],
+      "characteristics": {
+        "proof": 102,
+        "total_acidity": null,
+        "fixed_acidity": null,
+        "lactic_acid": null,
+        "succinic_acid": 0.03,
+        "esters": 0.08,
+        "aldehydes": null,
+        "furfural": null,
+        "fusel_oil": null,
+        "solids": null,
+        "color": "Deep amber",
+        "tannins": null,
+        "ph": null
+      },
+      "ratings": {
+        "Whisky Advocate": 91,
+        "Whisky Magazine": 87,
+        "Jim Murray's Whisky Bible": 92
+      },
+      "image": "https://example.com/nikka_from_the_barrel.jpg",
+      "factors": {
+        "aging_process": null,
+        "water_source": null,
+        "grain": null,
+        "distilled_geolocation": null,
+        "elevation_of_distillery": null,
+        "type_of_barrel": null,
+        "charred_barrel": null
+      }
+    },
+    {
+      "name": "Hakushu 12 Year Old",
+      "type": "Single Malt Scotch",
+      "tags": [
+        "Refreshing",
+        "Green",
+        "Floral",
+        "Herbal",
+        "Subtle",
+        "Smoke"
+      ],
+      "characteristics": {
+        "proof": 86,
+        "total_acidity": null,
+        "fixed_acidity": null,
+        "lactic_acid": null,
+        "succinic_acid": null,
+        "esters": null,
+        "aldehydes": null,
+        "furfural": null,
+        "fusel_oil": null,
+        "solids": null,
+        "color": "Pale gold",
+        "tannins": null,
+        "ph": null
+      },
+      "ratings": {
+        "Whisky Advocate": 90,
+        "Whisky Magazine": 88,
+        "Jim Murray's Whisky Bible": 89
+      },
+      "image": "https://example.com/hakushu_12.jpg",
+      "factors": {
+        "aging_process": "12 years in oak barrels",
+        "water_source": "Mountain springs",
+        "grain": "Barley",
+        "distilled_geolocation": "Hakushu Distillery, Japan",
+        "elevation_of_distillery": "Unknown",
+        "type_of_barrel": "American oak",
+        "charred_barrel": true
+      }
+    },
+    {
+      "name": "Yoichi Single Malt",
+      "type": "Single Malt Scotch",
+      "tags": [
+        "Robust",
+        "Smoky",
+        "Peaty",
+        "Earthy",
+        "Slight",
+        "Sweetness"
+      ],
+      "characteristics": {
+        "proof": 90,
+        "total_acidity": null,
+        "fixed_acidity": null,
+        "lactic_acid": 0.02,
+        "succinic_acid": null,
+        "esters": null,
+        "aldehydes": null,
+        "furfural": null,
+        "fusel_oil": null,
+        "solids": null,
+        "color": "Deep gold",
+        "tannins": null,
+        "ph": null
+      },
+      "ratings": {
+        "Whisky Advocate": 89,
+        "Whisky Magazine": 86,
+        "Jim Murray's Whisky Bible": 88
+      },
+      "image": "https://example.com/yoichi_single_malt.jpg",
+      "factors": {
+        "aging_process": "Unknown",
+        "water_source": "Natural springs",
+        "grain": "Barley",
+        "distilled_geolocation": "Yoichi Distillery, Japan",
+        "elevation_of_distillery": "Unknown",
+        "type_of_barrel": "Unknown",
+        "charred_barrel": false
+      }
+    }
+  ]
+}
